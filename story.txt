@@ -1,0 +1,11 @@
+Migrate from Oracle to Amazon Aurora
+Learn how to migrate from Oracle to Amazon Aurora with minimal downtime. View project.
+
+Introducing Amazon Kinesis Analytics
+Easily process real-time, streaming data with Amazon Kinesis Analytics. Learn more.
+
+AWS Marketplace
+Discover, procure, and deploy popular software products that run on AWS. Learn more.
+
+Have feedback?
+Submit feedback to tell us about your experience with the AWS Management Console.
